@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jmajewski.dev/sitemap.xml
