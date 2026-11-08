@@ -1,4 +1,4 @@
-# jmajewski.dev — J. Clark Mulhall
+# jmajewski.dev — John (Vanya) Majewski
 
 A typography-forward, academic/professional portfolio for J. Clark Mulhall. Static HTML/CSS/JavaScript; built to publish directly on **GitHub Pages**, without a build step, npm, or server.
 
