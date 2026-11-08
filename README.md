@@ -1,15 +1,15 @@
-# jmajewski.dev — John (Vanya) Majewski
+# jmajewski.dev — J. Majewski
 
-A typography-forward, academic/professional portfolio for J. Clark Mulhall. Static HTML/CSS/JavaScript; built to publish directly on **GitHub Pages**, without a build step, npm, or server.
+A typography-forward, academic/professional portfolio for J. Majewski. Static HTML/CSS/JavaScript; built to publish directly on **GitHub Pages**, without a build step, npm, or server.
 
 ## Contents
 
 - `index.html` — all on-page content, search engine metadata, and links
 - `assets/styles.css` — typography, colors, layout, and mobile styles
 - `assets/main.js` — mobile nav and automatic copyright year
-- `assets/clark-portrait.webp` — optimized portrait adapted from supplied office photo
+- `assets/portrait.webp` — optimized portrait adapted from supplied office photo
 - `assets/social-preview.jpg` — open graph/social sharing image
-- `assets/favicon.svg` — JCM favicon
+- `assets/favicon.svg` — JM favicon
 - `CNAME` — custom-domain declaration (`jmajewski.dev`)
 - `.nojekyll` — publishes this static site without Jekyll processing
 - `sitemap.xml` and `robots.txt` — basic search engine discovery
@@ -56,7 +56,7 @@ GitHub documentation:
 
 ## Before publishing: content review
 
-- The name **J. Clark Mulhall**, credentials, background, and subject expertise follow the project brief. Verify how you want your credentials displayed before publishing.
+- The name **J. Majewski**, credentials, background, and subject expertise follow the project brief. Verify how you want your credentials displayed before publishing.
 - Contact buttons use **vanya@jmajewski.dev**. Confirm the mailbox is active before publishing.
 - The portfolio deliberately does **not** identify an employer, patient information, confidential client systems, claim unpublished papers, or fabricate project impact metrics.
 - Optional: add links to a current CV, public GitHub code, professional profile, and published papers **only when you have confirmed destinations**.
